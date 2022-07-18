@@ -1,0 +1,32 @@
+/* General info component style */
+.city-guide{
+  padding:50px 200px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+.city-guide-text {
+  width: 40%;
+  
+}
+
+/*PlacesToVisit component style */
+.places-to-visit{
+  padding:50px 200px;
+  
+}
+.places-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+.place-item{
+  max-width: 400px;
+  margin: 20px;
+}
+.places-to-visit h2{
+  text-align: left;
+}

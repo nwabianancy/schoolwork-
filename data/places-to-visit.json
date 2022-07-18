@@ -1,0 +1,22 @@
+
+[
+{
+
+    "id": "1",
+    "Name":"Cologne Cathedral",
+    "Address":"Domkloster 4, 50667 cologne",
+    "Description":"Cologne Cathedral is a Catholic cathedral in Cologne, North Rhine-Westphalia. It is the seat of the Archbishop of Cologne and of the administration of the Archdiocese of Cologne. It is a renowned monument of German Catholicism and Gothic architecture and was declared a World Heritage Site in 1996."
+},
+{
+    "id":"2",
+    "Name":"Ludwig Museum",
+    "Address":"Heinrich-boll-platz,50667 Cologne",
+    "Description":"Museum Ludwig, located in Cologne, Germany, houses a collection of modern art. It includes works from Pop Art, Abstract and Surrealism, and has one of the largest Picasso collections in Europe. It holds many works by Andy Warhol and Roy Lichtenstein." 
+},
+{
+    "id":"3",
+    "Name":"Hohenzollern Bridge",
+    "Address":"Cologne,North Rhein-Westphalia",
+    "Description": "The Hohenzollern Bridge is a bridge crossing the river Rhine in the German city of Cologne. It crosses the Rhine at kilometre 688.5. Originally, the bridge was both a railway and road bridge."
+}
+]
